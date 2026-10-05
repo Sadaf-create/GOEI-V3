@@ -1,0 +1,11 @@
+index_weights:
+  employment: 0.25
+  income: 0.20
+  skills: 0.20
+  enterprise: 0.15
+  digital: 0.10
+  protection: 0.10
+alert_thresholds:
+  deprivation_high: 65
+  displacement_high: 0.65
+

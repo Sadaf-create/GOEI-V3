@@ -1,0 +1,601 @@
+person_id,region,age,gender,education_years,income,employed,digital_access,social_protection,skills,preferred_sector
+P0001,North,22,Male,15,7491,0,0,1,digital literacy|sales,Retail
+P0002,Coastal,51,Male,12,9830,1,1,1,data entry,Administrative
+P0003,North,45,Female,19,9358,1,0,0,inventory,Logistics
+P0004,Central,41,Female,17,10386,1,1,0,customer service|sales,Retail
+P0005,East,23,Male,19,9143,1,1,1,patient care|communication,Healthcare
+P0006,East,51,Male,18,10408,1,1,1,python,Technology
+P0007,South,18,Male,15,10046,1,1,0,digital literacy,Retail
+P0008,Central,28,Female,12,6841,1,1,1,inventory,Logistics
+P0009,North,31,Male,14,8086,1,1,1,sales|customer service,Retail
+P0010,North,30,Female,18,9419,1,0,0,data entry|communication|office,Administrative
+P0011,West,32,Female,12,5767,0,1,1,electrical,Green Energy
+P0012,Central,37,Female,19,9745,1,1,1,digital literacy|python,Technology
+P0013,East,39,Male,7,5972,1,0,0,communication|data entry,Administrative
+P0014,South,56,Female,17,7149,1,1,1,digital literacy|sales,Retail
+P0015,East,39,Male,8,5409,0,1,1,digital literacy,Logistics
+P0016,North,19,Female,15,10352,1,1,1,digital literacy,Logistics
+P0017,East,60,Male,14,6714,1,1,1,digital literacy,Healthcare
+P0018,North,38,Male,12,6961,0,1,1,data entry|office,Administrative
+P0019,East,30,Female,10,9098,1,0,1,digital literacy|customer service,Retail
+P0020,South,30,Female,10,10151,1,0,1,inventory,Logistics
+P0021,West,24,Male,19,13572,1,0,0,inventory,Logistics
+P0022,Coastal,60,Male,9,7849,1,1,1,communication|patient care|digital literacy,Healthcare
+P0023,Coastal,22,Male,8,7019,0,0,0,data entry|communication|office,Administrative
+P0024,East,29,Female,19,8327,1,1,0,safety,Green Energy
+P0025,Coastal,19,Female,8,5517,1,0,0,communication|data entry,Administrative
+P0026,East,27,Female,12,9105,1,1,1,inventory,Logistics
+P0027,North,19,Male,16,7430,1,1,1,office|data entry,Administrative
+P0028,West,46,Female,7,6308,1,0,1,office|communication,Administrative
+P0029,Coastal,36,Female,14,11595,1,0,0,digital literacy|driving|inventory,Logistics
+P0030,Coastal,53,Female,13,3439,0,1,1,safety|data analysis|electrical,Green Energy
+P0031,Central,23,Female,19,12065,1,1,0,communication,Administrative
+P0032,South,50,Male,13,12817,1,1,1,data analysis,Green Energy
+P0033,Central,57,Female,8,6226,0,1,1,electrical,Green Energy
+P0034,West,20,Female,12,7307,1,1,0,digital literacy,Technology
+P0035,South,54,Male,11,7674,1,1,1,sales|customer service|digital literacy,Retail
+P0036,North,57,Male,12,6471,1,0,1,communication,Administrative
+P0037,East,56,Female,16,6912,0,0,1,data entry,Administrative
+P0038,Coastal,54,Male,17,9384,1,1,1,inventory|digital literacy|driving,Logistics
+P0039,East,43,Female,8,4559,1,1,1,data analysis,Technology
+P0040,East,54,Female,8,8626,1,1,0,electrical|safety|data analysis,Green Energy
+P0041,East,25,Male,9,5412,1,1,0,driving|digital literacy|inventory,Logistics
+P0042,Coastal,21,Male,20,10599,1,0,0,data analysis|digital literacy,Technology
+P0043,Coastal,28,Male,14,7773,1,1,1,safety|electrical|data analysis,Green Energy
+P0044,West,49,Male,14,9400,1,1,1,python|digital literacy,Technology
+P0045,North,21,Female,18,11329,1,0,0,data entry,Administrative
+P0046,West,33,Male,11,5791,0,1,0,digital literacy|customer service|sales,Retail
+P0047,South,25,Male,12,6906,1,0,1,digital literacy,Logistics
+P0048,North,29,Male,15,8792,1,1,1,data analysis|electrical|safety,Green Energy
+P0049,North,53,Female,14,6378,1,1,1,digital literacy,Retail
+P0050,South,19,Male,19,9672,1,0,1,inventory|driving,Logistics
+P0051,West,56,Male,6,5162,1,1,0,communication|office,Administrative
+P0052,North,57,Female,8,4883,0,1,1,customer service,Retail
+P0053,Coastal,20,Male,20,10272,1,0,0,sales,Retail
+P0054,Central,47,Male,18,12090,1,1,0,digital literacy|sales,Retail
+P0055,East,40,Male,18,7986,1,1,1,digital literacy|data analysis|python,Technology
+P0056,North,51,Female,9,5575,1,1,0,digital literacy|python|data analysis,Technology
+P0057,South,30,Female,19,11980,1,1,0,inventory|digital literacy,Logistics
+P0058,West,23,Male,8,7100,1,1,1,digital literacy|python|data analysis,Technology
+P0059,North,27,Male,15,7423,1,1,1,sales|digital literacy|customer service,Retail
+P0060,West,33,Male,13,7849,1,1,0,safety,Green Energy
+P0061,West,40,Female,9,7514,1,1,0,patient care|digital literacy|communication,Healthcare
+P0062,North,31,Male,18,11058,1,0,1,data entry|office,Administrative
+P0063,Coastal,20,Male,10,6996,1,0,0,digital literacy|python,Technology
+P0064,East,23,Male,16,8604,1,0,0,data analysis,Green Energy
+P0065,East,50,Female,10,7649,1,1,1,data analysis,Green Energy
+P0066,Central,53,Male,13,7004,1,0,0,driving,Logistics
+P0067,Coastal,50,Female,8,9207,1,1,1,digital literacy|driving|inventory,Logistics
+P0068,East,26,Female,19,12101,1,1,1,digital literacy|patient care,Healthcare
+P0069,South,52,Male,18,10365,1,1,1,patient care|digital literacy|communication,Healthcare
+P0070,Coastal,33,Male,19,9919,1,1,0,electrical|safety|data analysis,Green Energy
+P0071,East,35,Male,14,8856,1,1,1,electrical|safety,Green Energy
+P0072,Coastal,36,Female,8,4687,1,1,1,digital literacy|communication,Healthcare
+P0073,South,38,Male,13,7205,0,1,0,customer service|digital literacy,Retail
+P0074,Central,39,Male,17,6175,0,1,0,inventory,Logistics
+P0075,East,45,Female,7,4062,1,1,0,office|communication|data entry,Administrative
+P0076,Coastal,21,Male,19,12291,1,1,0,safety|data analysis|electrical,Green Energy
+P0077,South,33,Female,12,8492,1,1,0,communication|office|data entry,Administrative
+P0078,North,22,Male,17,9079,1,1,1,communication|office|data entry,Administrative
+P0079,South,56,Male,13,6899,1,0,1,digital literacy,Retail
+P0080,Central,29,Male,18,8389,1,1,1,digital literacy|sales|customer service,Retail
+P0081,Coastal,51,Female,16,9206,1,1,0,data analysis|safety,Green Energy
+P0082,Coastal,39,Female,17,12241,1,1,1,digital literacy|sales,Retail
+P0083,North,36,Male,6,6193,1,1,1,digital literacy|inventory|driving,Logistics
+P0084,Coastal,31,Male,19,6532,1,1,0,electrical|data analysis,Green Energy
+P0085,North,24,Female,18,10637,1,1,0,patient care,Healthcare
+P0086,Coastal,47,Female,17,8988,1,0,1,inventory|driving|digital literacy,Logistics
+P0087,Central,51,Male,14,8411,1,1,0,communication|patient care,Healthcare
+P0088,Central,20,Male,10,7198,1,1,1,data analysis,Technology
+P0089,East,26,Male,7,6207,1,1,1,communication|office|data entry,Administrative
+P0090,South,22,Male,7,2916,0,1,1,patient care,Healthcare
+P0091,West,57,Female,13,7075,1,1,1,digital literacy|sales|customer service,Retail
+P0092,South,48,Female,13,9283,1,1,0,data entry,Administrative
+P0093,North,44,Female,6,8001,1,1,0,digital literacy|data analysis|python,Technology
+P0094,South,56,Male,6,3080,0,1,0,data analysis|safety,Green Energy
+P0095,West,52,Female,20,9859,0,1,1,electrical|safety,Green Energy
+P0096,South,32,Female,12,7305,1,1,0,digital literacy|driving|inventory,Logistics
+P0097,North,24,Male,17,9758,1,1,0,digital literacy,Healthcare
+P0098,North,18,Male,17,9281,0,1,0,patient care|digital literacy,Healthcare
+P0099,Coastal,25,Female,19,9260,1,1,1,data analysis,Technology
+P0100,East,54,Male,20,10758,1,1,1,driving|digital literacy|inventory,Logistics
+P0101,West,48,Male,17,9261,1,1,1,data analysis|safety|electrical,Green Energy
+P0102,North,56,Male,11,8186,1,1,0,customer service|sales,Retail
+P0103,East,27,Female,8,4067,1,0,1,communication|patient care|digital literacy,Healthcare
+P0104,East,58,Male,13,6768,1,0,0,safety|data analysis,Green Energy
+P0105,Coastal,49,Female,13,11317,1,1,0,customer service,Retail
+P0106,North,42,Male,19,9319,1,1,0,office|communication,Administrative
+P0107,West,34,Male,7,7044,1,1,1,safety,Green Energy
+P0108,North,38,Male,20,10825,1,1,1,python,Technology
+P0109,Coastal,19,Female,13,9546,1,1,1,digital literacy|patient care,Healthcare
+P0110,East,31,Male,7,6498,1,0,0,office,Administrative
+P0111,West,27,Male,11,4067,1,0,1,communication|office|data entry,Administrative
+P0112,East,24,Female,13,7445,1,1,1,driving,Logistics
+P0113,Coastal,19,Male,11,10202,1,0,1,data entry,Administrative
+P0114,South,54,Male,16,10015,1,1,1,office,Administrative
+P0115,South,40,Male,16,9665,0,1,1,data entry|communication,Administrative
+P0116,North,37,Male,7,5360,0,1,1,communication|data entry|office,Administrative
+P0117,East,34,Male,8,5133,1,1,1,data analysis|digital literacy|python,Technology
+P0118,East,59,Female,8,6326,1,1,0,data analysis|digital literacy|python,Technology
+P0119,North,47,Female,18,8991,1,1,0,sales|customer service|digital literacy,Retail
+P0120,West,40,Female,6,4255,0,1,0,digital literacy|driving|inventory,Logistics
+P0121,South,23,Female,19,10220,1,1,0,digital literacy,Healthcare
+P0122,North,43,Female,10,8195,1,1,1,inventory|digital literacy|driving,Logistics
+P0123,East,30,Male,16,7166,0,1,1,digital literacy|python,Technology
+P0124,East,42,Female,16,9601,1,0,1,office|communication,Administrative
+P0125,Central,23,Male,15,10105,1,1,0,digital literacy|patient care|communication,Healthcare
+P0126,North,55,Male,6,4688,1,1,1,patient care|communication|digital literacy,Healthcare
+P0127,South,57,Male,8,7474,1,1,0,digital literacy,Retail
+P0128,Central,31,Male,14,9084,1,1,1,communication|office,Administrative
+P0129,Coastal,58,Male,12,4907,0,1,1,digital literacy|inventory|driving,Logistics
+P0130,Coastal,57,Female,15,9756,1,1,0,electrical|safety|data analysis,Green Energy
+P0131,Coastal,44,Male,17,10356,1,1,1,digital literacy|patient care,Healthcare
+P0132,East,55,Male,10,5609,0,1,0,electrical,Green Energy
+P0133,South,34,Female,18,8690,1,1,1,data analysis|digital literacy|python,Technology
+P0134,Coastal,45,Female,15,7073,0,0,1,data analysis,Green Energy
+P0135,East,25,Female,9,6285,1,1,0,communication|data entry,Administrative
+P0136,East,19,Male,15,9668,0,1,0,digital literacy,Retail
+P0137,South,46,Male,10,8551,1,0,0,digital literacy|patient care,Healthcare
+P0138,East,48,Male,12,6411,1,0,1,data entry,Administrative
+P0139,West,40,Female,19,11055,1,1,1,office,Administrative
+P0140,North,32,Female,17,9374,1,0,0,communication|data entry,Administrative
+P0141,West,43,Female,12,8195,1,1,0,inventory|digital literacy|driving,Logistics
+P0142,Central,50,Male,10,8209,1,1,1,safety|electrical,Green Energy
+P0143,North,46,Female,18,10225,1,0,0,digital literacy|data analysis|python,Technology
+P0144,East,58,Female,19,8119,1,1,1,office|communication,Administrative
+P0145,East,33,Female,11,7644,1,1,0,sales|customer service|digital literacy,Retail
+P0146,North,40,Female,11,9102,1,1,1,sales|customer service,Retail
+P0147,South,51,Female,6,6008,1,1,1,safety|data analysis,Green Energy
+P0148,Coastal,43,Female,13,7070,1,1,1,communication,Administrative
+P0149,South,46,Male,9,6168,1,1,1,data analysis|electrical,Green Energy
+P0150,West,26,Male,11,6749,1,1,1,safety,Green Energy
+P0151,Coastal,59,Male,7,8475,1,1,0,python|digital literacy,Technology
+P0152,East,42,Male,9,6355,1,0,1,digital literacy|python,Technology
+P0153,Central,43,Female,13,7515,0,1,1,inventory|digital literacy|driving,Logistics
+P0154,North,36,Female,18,10161,1,0,0,digital literacy|sales,Retail
+P0155,Central,42,Female,17,10192,1,1,1,data analysis,Green Energy
+P0156,East,39,Male,11,7966,1,1,1,data entry|office,Administrative
+P0157,Central,57,Female,13,7550,0,1,0,digital literacy,Retail
+P0158,West,19,Male,11,6565,0,1,0,data entry|communication|office,Administrative
+P0159,Central,37,Female,18,10435,1,1,0,data analysis,Technology
+P0160,Coastal,51,Female,18,10446,1,0,0,electrical|safety,Green Energy
+P0161,East,34,Female,18,10981,1,1,1,sales|customer service|digital literacy,Retail
+P0162,North,35,Female,20,11906,1,0,1,digital literacy|inventory|driving,Logistics
+P0163,North,58,Male,10,3472,0,1,1,sales,Retail
+P0164,West,37,Male,7,4156,1,1,1,sales|digital literacy,Retail
+P0165,West,27,Male,11,10609,1,1,0,electrical|safety,Green Energy
+P0166,Coastal,19,Female,19,8831,1,0,1,communication|office,Administrative
+P0167,West,31,Male,16,7482,1,1,1,digital literacy|communication,Healthcare
+P0168,North,57,Male,20,10319,1,1,1,office,Administrative
+P0169,West,59,Female,20,12568,1,1,0,communication|digital literacy|patient care,Healthcare
+P0170,North,57,Male,20,11534,1,1,0,digital literacy|data analysis,Technology
+P0171,South,30,Female,12,8281,1,1,1,communication|office|data entry,Administrative
+P0172,West,19,Female,16,4813,0,0,1,digital literacy|customer service,Retail
+P0173,North,20,Female,13,5922,0,1,1,data analysis|safety|electrical,Green Energy
+P0174,North,39,Male,19,13724,1,0,0,data analysis|safety,Green Energy
+P0175,North,36,Male,7,6582,1,0,1,safety,Green Energy
+P0176,Coastal,25,Male,8,8096,1,1,0,safety,Green Energy
+P0177,Coastal,40,Male,16,9294,1,1,0,digital literacy|patient care|communication,Healthcare
+P0178,North,43,Female,13,8243,1,1,0,safety|electrical,Green Energy
+P0179,South,48,Female,13,7424,0,1,0,data analysis,Technology
+P0180,Coastal,32,Female,12,7784,0,0,1,data analysis|safety,Green Energy
+P0181,West,39,Female,12,4199,0,1,1,driving|inventory,Logistics
+P0182,East,29,Male,11,3834,0,1,1,patient care|digital literacy,Healthcare
+P0183,North,49,Male,10,8666,1,1,1,data analysis,Green Energy
+P0184,Central,31,Female,18,9126,1,1,1,electrical,Green Energy
+P0185,North,26,Female,13,5810,0,1,1,safety|electrical,Green Energy
+P0186,South,50,Female,9,7378,1,1,1,communication|patient care,Healthcare
+P0187,South,57,Female,10,7027,1,0,0,customer service|sales|digital literacy,Retail
+P0188,East,37,Male,15,7044,0,1,1,safety|electrical|data analysis,Green Energy
+P0189,North,22,Male,12,9263,1,0,0,electrical|safety|data analysis,Green Energy
+P0190,South,23,Female,19,8422,0,1,0,sales,Retail
+P0191,East,26,Male,20,9827,1,1,0,data analysis|electrical,Green Energy
+P0192,North,29,Male,16,9629,1,1,0,python|data analysis|digital literacy,Technology
+P0193,Coastal,18,Female,9,4799,1,1,0,data analysis|safety,Green Energy
+P0194,West,18,Male,14,3658,0,1,1,customer service|sales,Retail
+P0195,West,50,Female,13,8074,0,1,1,data entry|office|communication,Administrative
+P0196,East,23,Male,13,7338,0,1,0,safety|data analysis,Green Energy
+P0197,North,23,Female,20,10231,1,1,1,digital literacy|patient care|communication,Healthcare
+P0198,South,23,Female,9,5497,0,0,1,digital literacy|sales|customer service,Retail
+P0199,Coastal,51,Male,12,9282,1,1,0,communication|digital literacy|patient care,Healthcare
+P0200,West,41,Female,9,5933,1,0,1,office|communication|data entry,Administrative
+P0201,North,26,Male,8,2853,0,0,0,digital literacy|customer service|sales,Retail
+P0202,West,39,Male,12,9894,1,1,0,patient care,Healthcare
+P0203,West,40,Male,19,10962,1,0,0,communication|office|data entry,Administrative
+P0204,South,46,Female,19,10367,0,1,1,sales|customer service,Retail
+P0205,West,34,Male,7,4942,0,1,0,communication,Administrative
+P0206,Coastal,58,Male,11,7399,1,1,0,communication,Healthcare
+P0207,South,55,Male,15,8887,1,0,1,inventory|driving,Logistics
+P0208,North,49,Male,17,7866,1,1,0,safety|electrical,Green Energy
+P0209,Central,59,Female,17,9952,1,1,1,communication,Healthcare
+P0210,Central,31,Female,13,8214,1,0,1,data analysis,Technology
+P0211,Coastal,56,Male,7,3947,0,1,1,inventory,Logistics
+P0212,Coastal,21,Female,7,6686,1,0,1,python|digital literacy,Technology
+P0213,North,40,Male,6,3645,0,1,1,customer service|sales,Retail
+P0214,Central,28,Male,8,3092,0,1,0,digital literacy|data analysis|python,Technology
+P0215,Coastal,50,Female,7,3578,0,0,1,office,Administrative
+P0216,Coastal,44,Female,9,5633,1,1,0,inventory,Logistics
+P0217,West,20,Female,16,7594,1,1,1,digital literacy|inventory,Logistics
+P0218,Central,41,Female,17,7796,1,1,1,customer service,Retail
+P0219,Central,49,Female,19,10523,1,1,0,sales|digital literacy|customer service,Retail
+P0220,North,25,Female,13,5972,1,1,1,electrical|data analysis|safety,Green Energy
+P0221,South,24,Female,17,9075,1,1,1,electrical|data analysis|safety,Green Energy
+P0222,Coastal,24,Female,15,9815,1,1,0,data analysis,Green Energy
+P0223,East,47,Female,11,7126,1,0,0,data entry|office|communication,Administrative
+P0224,North,26,Female,11,4700,0,1,1,digital literacy|inventory,Logistics
+P0225,West,29,Female,20,9521,0,1,1,patient care|communication|digital literacy,Healthcare
+P0226,South,32,Male,15,10418,1,0,1,digital literacy|inventory|driving,Logistics
+P0227,North,31,Female,9,5726,0,1,1,digital literacy|data analysis|python,Technology
+P0228,South,24,Male,6,7203,1,1,1,data analysis|python|digital literacy,Technology
+P0229,West,41,Female,18,9277,0,1,1,electrical,Green Energy
+P0230,Coastal,58,Male,18,11154,1,1,1,patient care|communication,Healthcare
+P0231,East,38,Male,9,7332,1,1,1,customer service,Retail
+P0232,South,55,Female,15,5594,0,1,1,driving|digital literacy|inventory,Logistics
+P0233,Coastal,53,Male,14,10386,1,0,1,digital literacy|patient care,Healthcare
+P0234,Coastal,48,Male,19,9233,0,0,1,patient care|digital literacy,Healthcare
+P0235,Central,45,Male,7,6064,1,1,1,digital literacy|python|data analysis,Technology
+P0236,Central,57,Male,8,5334,1,1,1,digital literacy|sales|customer service,Retail
+P0237,East,27,Male,16,7570,0,0,1,digital literacy|communication,Healthcare
+P0238,Coastal,22,Male,15,4029,0,1,1,inventory,Logistics
+P0239,Central,50,Female,18,7395,1,0,1,sales|customer service,Retail
+P0240,South,22,Female,18,9099,1,1,1,digital literacy|patient care|communication,Healthcare
+P0241,Coastal,27,Female,16,10614,1,1,1,communication|patient care,Healthcare
+P0242,East,22,Female,16,11782,1,1,1,python|data analysis,Technology
+P0243,North,18,Male,18,8909,1,1,1,digital literacy|sales|customer service,Retail
+P0244,West,60,Male,17,8071,0,1,0,python,Technology
+P0245,West,59,Male,10,6077,0,1,0,digital literacy|inventory|driving,Logistics
+P0246,South,38,Female,7,5728,0,1,1,python|data analysis,Technology
+P0247,Coastal,36,Female,20,10722,1,0,1,digital literacy|customer service|sales,Retail
+P0248,Coastal,23,Female,13,2757,0,1,1,communication,Administrative
+P0249,Coastal,19,Female,9,8285,1,1,1,office,Administrative
+P0250,East,31,Male,16,8274,1,1,0,driving|inventory,Logistics
+P0251,North,32,Male,9,3542,0,1,1,driving,Logistics
+P0252,North,56,Male,17,7024,1,1,0,digital literacy,Retail
+P0253,Central,40,Male,13,9906,1,1,0,office|communication,Administrative
+P0254,South,29,Male,9,6319,1,1,1,driving|digital literacy|inventory,Logistics
+P0255,North,43,Female,11,6089,1,0,0,data analysis|electrical,Green Energy
+P0256,East,51,Female,6,7164,1,0,1,office|communication,Administrative
+P0257,Central,22,Male,17,10124,1,1,0,data analysis|python|digital literacy,Technology
+P0258,Coastal,54,Female,6,4737,0,1,1,python|digital literacy|data analysis,Technology
+P0259,North,55,Female,12,8462,1,1,1,digital literacy|inventory|driving,Logistics
+P0260,South,20,Female,13,11769,1,1,1,sales|customer service,Retail
+P0261,East,51,Female,20,7701,0,1,1,sales,Retail
+P0262,Coastal,31,Female,8,4561,0,1,1,driving,Logistics
+P0263,East,53,Female,9,7371,1,1,0,sales,Retail
+P0264,North,29,Female,7,5238,0,1,0,data analysis,Green Energy
+P0265,East,60,Male,13,10411,1,1,0,data analysis,Green Energy
+P0266,East,32,Female,7,5263,1,1,1,communication|data entry,Administrative
+P0267,South,43,Female,14,8219,1,1,0,digital literacy|patient care|communication,Healthcare
+P0268,East,54,Female,17,12756,1,1,1,digital literacy|python|data analysis,Technology
+P0269,Coastal,26,Male,13,8481,1,1,1,digital literacy|data analysis,Technology
+P0270,South,30,Male,14,10401,1,1,0,customer service,Retail
+P0271,Coastal,48,Male,11,9757,1,1,1,digital literacy,Retail
+P0272,Coastal,21,Male,7,2511,0,1,1,data analysis,Technology
+P0273,East,48,Female,14,10258,0,1,1,digital literacy|customer service|sales,Retail
+P0274,North,22,Female,19,10244,1,1,1,patient care|digital literacy,Healthcare
+P0275,Coastal,44,Female,20,9769,1,1,1,patient care|communication,Healthcare
+P0276,Coastal,28,Female,20,10450,0,1,1,data analysis|digital literacy|python,Technology
+P0277,West,21,Female,10,5407,0,1,1,safety|data analysis,Green Energy
+P0278,East,19,Male,8,6006,0,1,1,patient care|communication|digital literacy,Healthcare
+P0279,North,23,Male,20,7723,1,1,1,electrical,Green Energy
+P0280,South,47,Female,10,10916,1,1,1,sales,Retail
+P0281,Coastal,18,Male,8,8251,1,0,0,digital literacy|communication,Healthcare
+P0282,North,54,Male,10,6847,1,1,0,data analysis,Technology
+P0283,South,53,Male,13,10513,1,0,0,data entry|communication|office,Administrative
+P0284,North,40,Female,16,11306,1,1,1,data entry|office|communication,Administrative
+P0285,East,23,Female,11,6466,1,1,1,office|data entry|communication,Administrative
+P0286,Central,25,Male,6,7471,1,1,1,digital literacy,Logistics
+P0287,Coastal,26,Male,11,7555,1,1,1,digital literacy|driving|inventory,Logistics
+P0288,East,56,Female,15,5820,1,1,1,digital literacy|driving,Logistics
+P0289,Central,39,Female,10,6420,0,1,1,communication|data entry,Administrative
+P0290,East,23,Female,20,10527,1,1,0,communication|digital literacy,Healthcare
+P0291,South,54,Male,16,9289,1,0,0,data entry,Administrative
+P0292,Coastal,59,Female,13,9462,1,1,0,inventory,Logistics
+P0293,West,47,Male,20,9368,1,1,1,electrical,Green Energy
+P0294,East,48,Female,18,9013,1,1,1,electrical|safety,Green Energy
+P0295,West,54,Male,15,5541,1,1,1,python,Technology
+P0296,East,53,Female,8,3942,0,1,1,digital literacy,Logistics
+P0297,West,32,Female,18,10211,1,1,1,office|communication,Administrative
+P0298,Coastal,32,Female,11,7973,1,0,0,office|communication,Administrative
+P0299,Central,20,Male,7,6645,1,1,1,digital literacy|inventory|driving,Logistics
+P0300,Coastal,47,Male,9,6608,0,1,1,digital literacy|driving|inventory,Logistics
+P0301,Coastal,51,Male,20,10393,0,1,1,driving,Logistics
+P0302,South,24,Female,16,6565,0,1,1,data analysis,Technology
+P0303,South,24,Male,14,9656,1,0,1,safety|electrical|data analysis,Green Energy
+P0304,Coastal,19,Male,15,7778,1,0,1,digital literacy|driving,Logistics
+P0305,South,32,Male,18,10404,1,1,0,python|data analysis,Technology
+P0306,South,39,Female,8,3571,1,1,0,data analysis|electrical|safety,Green Energy
+P0307,West,55,Female,6,8046,1,1,0,communication,Administrative
+P0308,South,22,Female,16,10627,1,1,1,inventory|digital literacy,Logistics
+P0309,West,29,Male,17,12413,1,1,0,driving|inventory,Logistics
+P0310,East,43,Female,10,9123,1,1,1,digital literacy|python|data analysis,Technology
+P0311,North,53,Female,18,6961,0,1,1,safety|electrical|data analysis,Green Energy
+P0312,Coastal,48,Male,14,8049,1,1,1,data entry|office|communication,Administrative
+P0313,Central,53,Male,17,10323,1,1,1,patient care|digital literacy,Healthcare
+P0314,East,33,Male,8,7052,0,1,0,communication|digital literacy,Healthcare
+P0315,Coastal,30,Male,8,7819,1,1,0,driving|inventory,Logistics
+P0316,South,28,Female,15,10999,1,0,1,driving,Logistics
+P0317,Central,53,Male,18,12175,1,0,0,customer service|digital literacy|sales,Retail
+P0318,South,20,Female,7,8396,1,1,1,office|data entry|communication,Administrative
+P0319,West,35,Male,17,9708,0,1,0,digital literacy,Technology
+P0320,East,44,Male,19,9791,1,1,1,data analysis|electrical|safety,Green Energy
+P0321,East,32,Male,13,10766,1,1,1,communication|patient care|digital literacy,Healthcare
+P0322,Central,25,Female,10,5835,0,0,1,inventory|digital literacy,Logistics
+P0323,North,41,Female,9,5059,0,0,0,office|communication|data entry,Administrative
+P0324,Central,38,Male,6,6880,0,1,1,digital literacy|driving,Logistics
+P0325,Coastal,53,Female,20,12629,1,1,1,sales,Retail
+P0326,West,40,Male,12,6627,1,1,1,communication,Administrative
+P0327,Central,24,Female,17,9332,1,1,1,patient care,Healthcare
+P0328,South,25,Female,6,8568,1,1,1,driving|digital literacy,Logistics
+P0329,West,55,Female,18,9024,1,1,1,digital literacy,Healthcare
+P0330,Central,49,Male,20,9151,1,0,0,electrical,Green Energy
+P0331,Coastal,36,Male,19,9087,1,1,1,communication|data entry,Administrative
+P0332,North,53,Male,14,9233,1,0,0,digital literacy|data analysis|python,Technology
+P0333,North,22,Female,9,7422,1,1,1,python|digital literacy|data analysis,Technology
+P0334,North,47,Male,9,5822,1,1,0,digital literacy|driving,Logistics
+P0335,West,52,Male,7,4046,0,1,1,digital literacy,Retail
+P0336,West,37,Male,17,6692,0,1,1,digital literacy|sales|customer service,Retail
+P0337,West,19,Female,17,8161,1,1,1,sales,Retail
+P0338,Coastal,57,Male,14,9905,1,1,0,data analysis|electrical|safety,Green Energy
+P0339,South,28,Female,20,9658,1,1,1,communication,Administrative
+P0340,Coastal,45,Male,14,6338,0,1,1,data analysis|safety,Green Energy
+P0341,West,50,Female,17,10491,1,1,1,digital literacy|patient care,Healthcare
+P0342,North,53,Female,16,9257,1,0,0,customer service|sales,Retail
+P0343,South,60,Female,12,7753,1,1,1,communication,Administrative
+P0344,East,41,Female,18,10223,1,1,1,safety,Green Energy
+P0345,Coastal,29,Female,6,5419,1,1,1,data analysis|digital literacy|python,Technology
+P0346,East,38,Male,7,4228,1,1,0,patient care,Healthcare
+P0347,East,60,Male,16,6923,1,0,1,digital literacy,Technology
+P0348,West,34,Female,20,11046,1,0,1,data analysis|electrical|safety,Green Energy
+P0349,Coastal,34,Male,15,5732,0,1,1,sales|customer service,Retail
+P0350,North,54,Male,7,5307,1,0,1,sales|customer service,Retail
+P0351,North,28,Male,8,5684,1,1,0,office|data entry,Administrative
+P0352,West,55,Male,14,6014,1,1,1,digital literacy,Logistics
+P0353,Central,53,Female,9,6374,1,1,1,data entry,Administrative
+P0354,Central,59,Male,7,5195,0,0,1,electrical,Green Energy
+P0355,Coastal,47,Female,19,10238,1,1,0,safety,Green Energy
+P0356,North,57,Male,15,10312,1,1,1,customer service|digital literacy|sales,Retail
+P0357,Coastal,58,Male,9,5381,1,1,0,digital literacy|patient care,Healthcare
+P0358,West,53,Female,16,10536,0,1,1,communication,Healthcare
+P0359,Central,24,Female,13,7493,1,0,1,digital literacy,Healthcare
+P0360,West,53,Male,14,7660,1,0,1,communication,Administrative
+P0361,West,21,Female,15,7973,1,1,1,digital literacy|sales,Retail
+P0362,Central,39,Male,17,12140,1,1,0,digital literacy,Retail
+P0363,Central,28,Female,9,3405,1,1,1,communication,Administrative
+P0364,East,18,Male,10,7458,1,0,1,patient care|digital literacy,Healthcare
+P0365,East,48,Male,11,5971,0,1,1,patient care,Healthcare
+P0366,West,50,Female,11,4843,0,1,0,data entry|office|communication,Administrative
+P0367,Coastal,19,Male,9,3397,0,1,1,sales|digital literacy,Retail
+P0368,South,43,Male,18,12501,1,0,1,python,Technology
+P0369,East,20,Female,12,7638,1,0,0,python|digital literacy,Technology
+P0370,West,21,Male,7,4334,0,1,1,digital literacy|customer service|sales,Retail
+P0371,South,37,Female,10,7285,0,0,0,driving|inventory|digital literacy,Logistics
+P0372,South,29,Female,8,4804,0,1,1,communication|office|data entry,Administrative
+P0373,Coastal,50,Female,9,6237,0,1,1,data entry,Administrative
+P0374,West,47,Female,8,3807,0,1,1,electrical,Green Energy
+P0375,East,29,Male,8,7587,1,1,1,digital literacy,Logistics
+P0376,South,23,Male,12,6432,1,1,0,digital literacy|sales|customer service,Retail
+P0377,Central,39,Male,7,10247,1,1,0,digital literacy,Logistics
+P0378,North,60,Female,6,7508,1,1,0,safety,Green Energy
+P0379,North,32,Female,16,5031,0,1,1,python,Technology
+P0380,East,20,Male,13,9568,1,0,0,digital literacy,Healthcare
+P0381,Coastal,20,Male,8,6466,0,1,1,communication,Administrative
+P0382,Central,38,Male,10,6716,1,0,1,inventory|digital literacy|driving,Logistics
+P0383,Central,39,Male,6,4772,0,1,0,data analysis|python,Technology
+P0384,South,44,Female,18,8823,1,1,1,digital literacy|python,Technology
+P0385,Central,58,Male,9,7799,1,0,1,safety|electrical,Green Energy
+P0386,Central,28,Female,19,9590,1,1,1,inventory,Logistics
+P0387,South,28,Female,20,10358,1,1,1,sales|customer service|digital literacy,Retail
+P0388,Coastal,51,Male,14,7416,1,1,1,communication|digital literacy|patient care,Healthcare
+P0389,East,22,Male,8,6782,1,0,1,safety|electrical,Green Energy
+P0390,North,48,Male,11,6443,1,1,1,communication|digital literacy,Healthcare
+P0391,South,40,Male,10,5965,0,1,1,data analysis|safety|electrical,Green Energy
+P0392,South,42,Female,7,4488,1,1,1,sales,Retail
+P0393,North,39,Female,13,8589,1,0,1,python,Technology
+P0394,Coastal,48,Male,10,9245,1,1,1,communication|data entry,Administrative
+P0395,Central,22,Female,7,5717,1,1,1,data entry|office,Administrative
+P0396,North,33,Male,6,8032,1,1,1,safety,Green Energy
+P0397,Central,19,Female,20,9328,1,1,0,digital literacy|python|data analysis,Technology
+P0398,Coastal,43,Female,16,10724,1,0,1,data analysis|digital literacy|python,Technology
+P0399,North,55,Female,15,7820,1,1,1,sales|digital literacy,Retail
+P0400,Coastal,58,Female,17,11464,1,1,1,data analysis|safety|electrical,Green Energy
+P0401,North,28,Female,13,7145,1,1,0,office,Administrative
+P0402,East,49,Male,10,8092,1,1,1,customer service,Retail
+P0403,East,56,Female,18,7184,1,1,1,customer service|digital literacy|sales,Retail
+P0404,South,47,Female,10,9456,1,1,1,safety|data analysis,Green Energy
+P0405,Central,45,Female,14,8037,1,0,1,communication|office|data entry,Administrative
+P0406,North,44,Female,18,10885,1,1,0,data entry|communication,Administrative
+P0407,North,42,Male,8,4394,0,0,1,digital literacy|patient care|communication,Healthcare
+P0408,North,59,Male,19,9375,1,0,1,patient care,Healthcare
+P0409,North,40,Male,7,5165,0,0,0,digital literacy|customer service,Retail
+P0410,Central,22,Male,12,8224,1,1,1,customer service|digital literacy,Retail
+P0411,West,48,Female,10,10031,1,0,1,safety|electrical,Green Energy
+P0412,South,21,Male,7,7170,1,0,1,inventory|driving,Logistics
+P0413,Coastal,24,Male,14,5450,0,1,1,digital literacy|patient care,Healthcare
+P0414,West,19,Male,10,7545,1,1,0,inventory,Logistics
+P0415,East,42,Male,17,8827,1,0,0,sales|customer service|digital literacy,Retail
+P0416,North,21,Male,20,11717,0,0,1,patient care,Healthcare
+P0417,East,38,Female,16,6830,1,1,1,digital literacy|patient care|communication,Healthcare
+P0418,Central,53,Female,13,9058,1,1,1,driving|digital literacy,Logistics
+P0419,Coastal,50,Female,16,10126,0,1,1,safety|electrical|data analysis,Green Energy
+P0420,Central,23,Male,14,7121,1,0,1,digital literacy|patient care|communication,Healthcare
+P0421,Central,45,Male,18,8592,1,1,0,data analysis|safety|electrical,Green Energy
+P0422,Central,23,Male,16,11525,1,0,0,driving|digital literacy,Logistics
+P0423,Coastal,50,Male,18,12947,1,1,1,digital literacy,Logistics
+P0424,West,54,Male,13,7652,1,1,1,customer service|digital literacy|sales,Retail
+P0425,East,44,Female,8,3790,0,1,1,digital literacy,Technology
+P0426,East,32,Male,16,8357,0,0,1,data entry|office,Administrative
+P0427,East,24,Male,18,9903,0,0,1,patient care|communication,Healthcare
+P0428,West,39,Female,13,9794,1,0,0,communication|data entry,Administrative
+P0429,Coastal,25,Male,18,9704,1,1,1,sales|customer service,Retail
+P0430,South,50,Female,14,6632,0,0,1,patient care|digital literacy,Healthcare
+P0431,North,38,Male,16,8291,0,0,1,digital literacy|inventory|driving,Logistics
+P0432,Central,38,Male,18,10595,1,1,1,patient care,Healthcare
+P0433,South,18,Male,6,3841,1,1,1,python|digital literacy,Technology
+P0434,North,57,Male,15,8819,1,1,1,safety|electrical,Green Energy
+P0435,Coastal,24,Male,10,7765,1,1,0,communication|patient care|digital literacy,Healthcare
+P0436,South,59,Male,19,11232,1,1,1,sales|digital literacy,Retail
+P0437,West,39,Male,18,9742,1,1,0,digital literacy,Logistics
+P0438,West,33,Female,12,10211,1,0,1,patient care,Healthcare
+P0439,East,55,Female,9,7724,1,1,0,data entry|office,Administrative
+P0440,West,56,Female,9,3373,0,1,1,data analysis,Technology
+P0441,Central,55,Female,7,5004,1,1,1,safety,Green Energy
+P0442,Coastal,55,Female,17,13479,1,1,1,customer service|digital literacy|sales,Retail
+P0443,Central,32,Female,7,8727,1,1,1,safety,Green Energy
+P0444,Coastal,36,Female,15,8230,1,1,1,patient care|communication|digital literacy,Healthcare
+P0445,South,41,Female,19,10902,1,1,0,customer service|digital literacy,Retail
+P0446,Central,42,Male,19,7190,0,0,0,electrical|safety|data analysis,Green Energy
+P0447,East,47,Male,18,9664,1,0,0,sales|digital literacy|customer service,Retail
+P0448,Coastal,50,Male,15,8689,1,1,1,office,Administrative
+P0449,Coastal,38,Male,8,5445,0,1,1,office,Administrative
+P0450,East,26,Female,6,6242,1,1,1,digital literacy|communication|patient care,Healthcare
+P0451,Coastal,37,Female,17,9945,1,1,0,python|digital literacy,Technology
+P0452,East,31,Female,8,5976,0,0,1,communication|patient care,Healthcare
+P0453,South,59,Female,9,5360,1,0,1,data analysis|safety,Green Energy
+P0454,Central,21,Female,16,8235,1,1,1,electrical|safety|data analysis,Green Energy
+P0455,Coastal,44,Male,19,7408,0,1,1,digital literacy|sales,Retail
+P0456,Central,51,Male,7,6319,1,1,1,digital literacy|data analysis,Technology
+P0457,East,20,Female,10,7921,1,1,0,python,Technology
+P0458,South,20,Male,20,11123,1,1,1,digital literacy|customer service,Retail
+P0459,East,22,Male,16,6887,0,1,1,data analysis|digital literacy,Technology
+P0460,South,44,Male,7,8939,0,1,1,communication,Healthcare
+P0461,East,52,Female,10,8636,1,1,0,digital literacy|communication|patient care,Healthcare
+P0462,South,48,Male,15,6633,0,1,1,python|data analysis|digital literacy,Technology
+P0463,South,34,Male,11,9211,1,1,1,office|communication,Administrative
+P0464,North,32,Female,18,8700,1,1,1,electrical,Green Energy
+P0465,Coastal,54,Female,15,11127,1,1,0,data analysis,Technology
+P0466,West,18,Male,9,7703,0,0,0,electrical,Green Energy
+P0467,East,42,Male,12,4756,0,0,1,office,Administrative
+P0468,West,57,Male,18,8812,1,1,1,data analysis|digital literacy,Technology
+P0469,West,40,Female,8,6224,1,0,0,driving|inventory|digital literacy,Logistics
+P0470,East,19,Female,14,8827,0,1,1,driving,Logistics
+P0471,South,36,Female,12,6688,1,1,0,patient care|communication,Healthcare
+P0472,South,50,Male,9,6972,1,0,1,data analysis,Technology
+P0473,Central,29,Female,9,7039,1,1,1,digital literacy|driving,Logistics
+P0474,East,25,Female,7,3731,1,1,0,electrical|data analysis|safety,Green Energy
+P0475,Coastal,50,Male,10,9964,1,1,0,communication|data entry,Administrative
+P0476,North,31,Male,16,7880,1,1,1,communication,Administrative
+P0477,North,20,Female,7,4587,1,1,1,data analysis|electrical,Green Energy
+P0478,Central,20,Male,14,7308,1,1,1,digital literacy,Healthcare
+P0479,North,18,Female,12,6555,1,1,1,inventory,Logistics
+P0480,North,54,Female,13,4376,0,1,1,communication|office|data entry,Administrative
+P0481,Coastal,33,Male,16,13053,1,1,1,data analysis|safety,Green Energy
+P0482,Coastal,30,Female,13,9052,1,0,1,python|digital literacy,Technology
+P0483,East,21,Female,9,5028,1,1,1,driving|digital literacy,Logistics
+P0484,Central,36,Male,19,10692,1,1,0,data analysis,Green Energy
+P0485,East,23,Female,8,7914,1,0,1,inventory|driving,Logistics
+P0486,East,46,Male,18,13635,1,1,1,digital literacy|data analysis,Technology
+P0487,East,46,Female,11,6576,1,0,0,digital literacy|patient care,Healthcare
+P0488,West,36,Male,10,4207,0,1,1,communication,Healthcare
+P0489,East,30,Male,9,4377,0,1,1,driving,Logistics
+P0490,Central,35,Female,15,7048,1,1,1,data analysis|safety|electrical,Green Energy
+P0491,West,22,Female,11,8245,1,0,1,digital literacy,Healthcare
+P0492,North,22,Male,8,5885,1,1,1,driving,Logistics
+P0493,Central,32,Male,10,7038,1,1,0,communication,Healthcare
+P0494,East,22,Male,13,9244,0,0,1,digital literacy,Logistics
+P0495,Central,51,Female,10,3665,0,0,1,digital literacy|patient care|communication,Healthcare
+P0496,South,35,Female,13,4823,0,1,1,driving|digital literacy,Logistics
+P0497,Central,20,Female,14,6719,0,1,1,electrical|safety|data analysis,Green Energy
+P0498,North,18,Male,7,4474,0,1,1,digital literacy|inventory|driving,Logistics
+P0499,East,36,Female,6,5718,0,1,1,digital literacy,Healthcare
+P0500,East,47,Female,6,3477,0,1,1,python,Technology
+P0501,West,18,Male,10,7259,1,1,0,office|data entry,Administrative
+P0502,East,48,Male,16,6855,0,1,0,patient care,Healthcare
+P0503,Coastal,32,Female,16,8758,1,0,1,inventory|driving|digital literacy,Logistics
+P0504,Coastal,21,Female,8,7685,1,0,1,python,Technology
+P0505,Central,46,Female,13,11235,1,1,0,data entry,Administrative
+P0506,Coastal,26,Male,7,3775,0,1,0,digital literacy|data analysis,Technology
+P0507,North,42,Male,11,6719,1,1,1,patient care,Healthcare
+P0508,South,39,Female,9,6859,1,0,1,communication|office|data entry,Administrative
+P0509,Coastal,19,Female,20,11002,1,1,1,communication|digital literacy,Healthcare
+P0510,Central,45,Male,11,8150,0,1,1,safety|data analysis,Green Energy
+P0511,West,18,Male,12,6904,0,1,1,sales,Retail
+P0512,South,47,Female,8,7544,1,1,0,digital literacy,Technology
+P0513,Coastal,57,Male,14,6838,0,1,0,patient care|digital literacy|communication,Healthcare
+P0514,West,48,Male,6,3653,0,1,1,digital literacy|customer service|sales,Retail
+P0515,Coastal,18,Male,19,13913,1,1,0,data entry,Administrative
+P0516,East,44,Female,8,5924,0,1,1,office|communication|data entry,Administrative
+P0517,North,25,Male,18,10537,1,1,1,driving,Logistics
+P0518,South,34,Male,8,8543,1,0,1,customer service|digital literacy|sales,Retail
+P0519,North,37,Male,19,12194,1,0,0,driving|digital literacy|inventory,Logistics
+P0520,Central,53,Female,14,9408,1,1,0,safety|electrical|data analysis,Green Energy
+P0521,East,55,Female,9,9023,1,1,1,communication|data entry|office,Administrative
+P0522,Coastal,23,Male,17,8467,1,1,0,python|data analysis,Technology
+P0523,West,25,Male,17,7538,0,1,0,office|communication|data entry,Administrative
+P0524,North,44,Male,16,9886,0,1,0,digital literacy|patient care,Healthcare
+P0525,Coastal,36,Female,20,9500,1,1,1,office|communication|data entry,Administrative
+P0526,East,25,Female,7,7130,1,0,1,inventory,Logistics
+P0527,Central,27,Female,13,4651,1,0,1,office,Administrative
+P0528,West,29,Male,18,9397,1,1,1,digital literacy|data analysis|python,Technology
+P0529,West,51,Male,12,7857,1,1,1,patient care|communication|digital literacy,Healthcare
+P0530,Coastal,39,Female,14,9284,1,1,1,driving|inventory|digital literacy,Logistics
+P0531,West,47,Male,20,11619,1,1,1,communication|digital literacy|patient care,Healthcare
+P0532,South,23,Female,11,7156,1,1,0,communication|patient care,Healthcare
+P0533,South,53,Female,18,10925,1,1,1,sales|digital literacy|customer service,Retail
+P0534,South,37,Male,10,4972,0,1,1,digital literacy|communication|patient care,Healthcare
+P0535,East,32,Male,18,6538,0,1,1,data analysis|digital literacy,Technology
+P0536,South,27,Male,16,9948,1,1,1,digital literacy|python|data analysis,Technology
+P0537,East,18,Male,20,11804,1,1,0,driving|inventory|digital literacy,Logistics
+P0538,East,59,Female,19,10181,1,0,1,driving,Logistics
+P0539,East,25,Female,18,11143,1,1,1,data analysis,Green Energy
+P0540,Coastal,60,Female,9,5795,1,0,0,communication|data entry|office,Administrative
+P0541,East,23,Female,16,8391,1,1,0,digital literacy|data analysis,Technology
+P0542,East,23,Male,10,7297,1,1,1,python|data analysis|digital literacy,Technology
+P0543,North,51,Male,17,11474,1,1,0,inventory|digital literacy|driving,Logistics
+P0544,Coastal,31,Male,16,7178,1,1,1,office|communication|data entry,Administrative
+P0545,West,20,Female,15,8527,0,1,1,python|digital literacy|data analysis,Technology
+P0546,North,23,Male,10,5851,0,1,0,inventory,Logistics
+P0547,South,40,Male,13,9069,1,1,0,python|data analysis|digital literacy,Technology
+P0548,Coastal,24,Male,6,4339,0,1,1,patient care,Healthcare
+P0549,West,53,Female,14,12420,1,0,1,data entry,Administrative
+P0550,South,21,Male,19,10766,1,0,0,customer service,Retail
+P0551,Central,36,Male,16,9764,1,0,1,customer service,Retail
+P0552,Coastal,55,Female,20,9597,1,1,1,data analysis|safety|electrical,Green Energy
+P0553,East,50,Female,11,7648,0,1,1,inventory|digital literacy|driving,Logistics
+P0554,North,52,Female,8,6466,1,1,1,communication|office|data entry,Administrative
+P0555,West,45,Male,15,6491,1,1,0,safety|data analysis,Green Energy
+P0556,Coastal,33,Female,10,9058,1,1,1,office,Administrative
+P0557,Central,47,Female,20,13391,1,1,1,inventory,Logistics
+P0558,South,47,Male,13,10046,1,1,1,python|data analysis,Technology
+P0559,South,52,Male,14,8984,1,1,1,data entry|office|communication,Administrative
+P0560,East,36,Male,10,6393,0,0,1,data analysis|digital literacy|python,Technology
+P0561,East,31,Male,16,9078,1,1,1,communication,Administrative
+P0562,North,58,Male,7,6386,1,1,0,python|data analysis|digital literacy,Technology
+P0563,North,36,Male,11,8363,1,1,1,communication,Healthcare
+P0564,East,25,Female,17,9297,1,0,0,digital literacy|sales|customer service,Retail
+P0565,Coastal,30,Male,17,10100,1,1,1,electrical|data analysis,Green Energy
+P0566,North,36,Male,17,10235,1,1,1,safety,Green Energy
+P0567,East,41,Male,6,4633,1,1,1,driving|inventory,Logistics
+P0568,South,51,Female,18,9060,1,0,1,customer service,Retail
+P0569,West,32,Female,19,10481,1,1,1,communication|digital literacy|patient care,Healthcare
+P0570,East,19,Male,11,5180,1,0,1,sales,Retail
+P0571,East,26,Female,8,5294,1,1,1,communication,Administrative
+P0572,West,39,Male,12,5086,0,1,1,office,Administrative
+P0573,West,49,Female,10,8140,1,1,1,customer service,Retail
+P0574,West,36,Female,6,5682,1,1,1,python|data analysis,Technology
+P0575,North,35,Male,20,11679,0,1,0,driving,Logistics
+P0576,East,58,Male,8,7433,1,1,1,data analysis|python|digital literacy,Technology
+P0577,East,36,Female,16,8356,1,0,0,safety|data analysis|electrical,Green Energy
+P0578,North,40,Female,16,9238,1,0,1,safety|electrical,Green Energy
+P0579,Central,41,Female,6,6622,1,1,0,python|digital literacy|data analysis,Technology
+P0580,Central,51,Male,12,9804,1,1,0,office|data entry|communication,Administrative
+P0581,Coastal,18,Male,17,8380,1,0,1,driving|digital literacy|inventory,Logistics
+P0582,North,18,Female,10,7987,1,1,1,driving,Logistics
+P0583,Central,52,Female,6,3248,0,0,1,sales,Retail
+P0584,North,23,Male,15,8818,1,0,0,sales|digital literacy,Retail
+P0585,Coastal,37,Male,14,9537,1,1,0,python,Technology
+P0586,West,52,Female,14,7960,1,1,1,communication,Healthcare
+P0587,West,54,Female,19,8132,1,1,1,python|data analysis,Technology
+P0588,Coastal,29,Male,20,9424,1,1,1,inventory|digital literacy|driving,Logistics
+P0589,Central,25,Male,19,8044,1,1,0,digital literacy|driving|inventory,Logistics
+P0590,Coastal,27,Female,7,6395,1,0,1,digital literacy|inventory,Logistics
+P0591,North,60,Female,11,8433,1,1,0,customer service|digital literacy|sales,Retail
+P0592,West,48,Female,8,6761,1,1,0,data analysis|safety,Green Energy
+P0593,South,55,Male,9,6959,1,1,0,digital literacy|patient care,Healthcare
+P0594,East,52,Female,9,4701,0,1,0,data analysis|digital literacy,Technology
+P0595,West,44,Female,9,2958,0,0,1,inventory|digital literacy,Logistics
+P0596,North,42,Female,16,7711,1,1,1,safety|data analysis|electrical,Green Energy
+P0597,North,44,Male,14,8478,1,0,1,communication,Healthcare
+P0598,North,30,Male,12,7805,1,1,1,electrical|data analysis,Green Energy
+P0599,Central,45,Male,9,6681,1,1,1,data analysis,Technology
+P0600,South,31,Female,18,9393,1,1,1,electrical|safety,Green Energy

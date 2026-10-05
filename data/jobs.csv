@@ -1,0 +1,71 @@
+job_id,title,sector,region,required_skills,salary,growth_score
+J001,Junior Data Analyst,Technology,West,python|data analysis|digital literacy,7950,0.92
+J002,Cybersecurity Technician,Technology,West,networks|cybersecurity|digital literacy,9729,0.95
+J003,Care Coordinator,Healthcare,South,patient care|communication|digital literacy,6685,0.78
+J004,Solar Technician,Green Energy,Central,electrical|safety|data analysis,8060,0.88
+J005,Supply Coordinator,Logistics,West,inventory|communication|digital literacy,6625,0.72
+J006,E-commerce Associate,Retail,East,sales|customer service|digital literacy,6113,0.66
+J007,Office Automation Assistant,Administrative,Coastal,office|communication|data entry,5414,0.48
+J008,Junior Data Analyst,Technology,Central,python|data analysis|digital literacy,9089,0.92
+J009,Cybersecurity Technician,Technology,West,networks|cybersecurity|digital literacy,9266,0.95
+J010,Care Coordinator,Healthcare,West,patient care|communication|digital literacy,6448,0.78
+J011,Solar Technician,Green Energy,Central,electrical|safety|data analysis,7772,0.88
+J012,Supply Coordinator,Logistics,South,inventory|communication|digital literacy,6754,0.72
+J013,E-commerce Associate,Retail,Central,sales|customer service|digital literacy,6627,0.66
+J014,Office Automation Assistant,Administrative,East,office|communication|data entry,5654,0.48
+J015,Junior Data Analyst,Technology,West,python|data analysis|digital literacy,7458,0.92
+J016,Cybersecurity Technician,Technology,Coastal,networks|cybersecurity|digital literacy,10035,0.95
+J017,Care Coordinator,Healthcare,East,patient care|communication|digital literacy,7091,0.78
+J018,Solar Technician,Green Energy,West,electrical|safety|data analysis,9253,0.88
+J019,Supply Coordinator,Logistics,Central,inventory|communication|digital literacy,7192,0.72
+J020,E-commerce Associate,Retail,East,sales|customer service|digital literacy,5518,0.66
+J021,Office Automation Assistant,Administrative,West,office|communication|data entry,5452,0.48
+J022,Junior Data Analyst,Technology,North,python|data analysis|digital literacy,8112,0.92
+J023,Cybersecurity Technician,Technology,North,networks|cybersecurity|digital literacy,10178,0.95
+J024,Care Coordinator,Healthcare,North,patient care|communication|digital literacy,6455,0.78
+J025,Solar Technician,Green Energy,South,electrical|safety|data analysis,8251,0.88
+J026,Supply Coordinator,Logistics,South,inventory|communication|digital literacy,5935,0.72
+J027,E-commerce Associate,Retail,West,sales|customer service|digital literacy,6140,0.66
+J028,Office Automation Assistant,Administrative,Coastal,office|communication|data entry,5986,0.48
+J029,Junior Data Analyst,Technology,South,python|data analysis|digital literacy,8913,0.92
+J030,Cybersecurity Technician,Technology,North,networks|cybersecurity|digital literacy,10093,0.95
+J031,Care Coordinator,Healthcare,East,patient care|communication|digital literacy,6292,0.78
+J032,Solar Technician,Green Energy,South,electrical|safety|data analysis,8761,0.88
+J033,Supply Coordinator,Logistics,Central,inventory|communication|digital literacy,6961,0.72
+J034,E-commerce Associate,Retail,Central,sales|customer service|digital literacy,6747,0.66
+J035,Office Automation Assistant,Administrative,Central,office|communication|data entry,5841,0.48
+J036,Junior Data Analyst,Technology,South,python|data analysis|digital literacy,8044,0.92
+J037,Cybersecurity Technician,Technology,Central,networks|cybersecurity|digital literacy,10268,0.95
+J038,Care Coordinator,Healthcare,North,patient care|communication|digital literacy,6807,0.78
+J039,Solar Technician,Green Energy,North,electrical|safety|data analysis,8328,0.88
+J040,Supply Coordinator,Logistics,West,inventory|communication|digital literacy,5964,0.72
+J041,E-commerce Associate,Retail,West,sales|customer service|digital literacy,5523,0.66
+J042,Office Automation Assistant,Administrative,North,office|communication|data entry,5685,0.48
+J043,Junior Data Analyst,Technology,Coastal,python|data analysis|digital literacy,8367,0.92
+J044,Cybersecurity Technician,Technology,South,networks|cybersecurity|digital literacy,9621,0.95
+J045,Care Coordinator,Healthcare,South,patient care|communication|digital literacy,7944,0.78
+J046,Solar Technician,Green Energy,West,electrical|safety|data analysis,8892,0.88
+J047,Supply Coordinator,Logistics,East,inventory|communication|digital literacy,6787,0.72
+J048,E-commerce Associate,Retail,South,sales|customer service|digital literacy,6422,0.66
+J049,Office Automation Assistant,Administrative,East,office|communication|data entry,5085,0.48
+J050,Junior Data Analyst,Technology,East,python|data analysis|digital literacy,8461,0.92
+J051,Cybersecurity Technician,Technology,West,networks|cybersecurity|digital literacy,10561,0.95
+J052,Care Coordinator,Healthcare,Coastal,patient care|communication|digital literacy,8032,0.78
+J053,Solar Technician,Green Energy,East,electrical|safety|data analysis,7137,0.88
+J054,Supply Coordinator,Logistics,North,inventory|communication|digital literacy,7104,0.72
+J055,E-commerce Associate,Retail,Coastal,sales|customer service|digital literacy,5668,0.66
+J056,Office Automation Assistant,Administrative,South,office|communication|data entry,5813,0.48
+J057,Junior Data Analyst,Technology,East,python|data analysis|digital literacy,8255,0.92
+J058,Cybersecurity Technician,Technology,North,networks|cybersecurity|digital literacy,9675,0.95
+J059,Care Coordinator,Healthcare,West,patient care|communication|digital literacy,6795,0.78
+J060,Solar Technician,Green Energy,Central,electrical|safety|data analysis,7645,0.88
+J061,Supply Coordinator,Logistics,Central,inventory|communication|digital literacy,6969,0.72
+J062,E-commerce Associate,Retail,South,sales|customer service|digital literacy,5910,0.66
+J063,Office Automation Assistant,Administrative,Coastal,office|communication|data entry,5994,0.48
+J064,Junior Data Analyst,Technology,East,python|data analysis|digital literacy,7130,0.92
+J065,Cybersecurity Technician,Technology,North,networks|cybersecurity|digital literacy,9689,0.95
+J066,Care Coordinator,Healthcare,West,patient care|communication|digital literacy,7074,0.78
+J067,Solar Technician,Green Energy,West,electrical|safety|data analysis,8763,0.88
+J068,Supply Coordinator,Logistics,Central,inventory|communication|digital literacy,6443,0.72
+J069,E-commerce Associate,Retail,Central,sales|customer service|digital literacy,6097,0.66
+J070,Office Automation Assistant,Administrative,South,office|communication|data entry,4644,0.48
